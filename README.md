@@ -19,4 +19,15 @@
      - titre
      - extension
 
-2. Proposer une API REST pour donne l'accès à ces ressources. 
+2. Proposer une API REST pour donne l'accès à ces ressources.
+   Cours:
+      - Post/cours - add new cours to list
+      - Get/cours/findbytags - find cours by tag
+      - Get/cours/coursid - find cours by ID
+      - Post/cours/coursid - update 
+
+
+
+   https://programmes.uqac.ca/animaux/chien
+   vs
+   https://programmes.uqac.ca/animaux/?tags=chien
